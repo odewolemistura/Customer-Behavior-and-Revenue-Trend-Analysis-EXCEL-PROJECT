@@ -51,7 +51,9 @@ Key business questions explored:
 - Subscription status distribution  
 - Seasonal purchase patterns  
 - Shipping type preference by gender  
-- Review rating by purchase frequency  
+- Review rating by purchase frequency
+
+![image alt]()
 
 ### **Page 2: Revenue Insights**
 - Revenue by category  
@@ -59,7 +61,8 @@ Key business questions explored:
 - Seasonal revenue breakdown  
 - Revenue impact of discounts & promo codes  
 - Revenue by payment method
-  
+
+  ![image alt]()
 ## Key Findings & Insights
 
 - 📈 **45–59-year-olds** contribute the most to revenue  
