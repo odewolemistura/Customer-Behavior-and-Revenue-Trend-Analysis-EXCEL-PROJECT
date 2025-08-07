@@ -53,7 +53,7 @@ Key business questions explored:
 - Shipping type preference by gender  
 - Review rating by purchase frequency
 
-![image alt]()
+![image alt](https://github.com/odewolemistura/Customer-Behavior-and-Revenue-Trend-Analysis-EXCEL-PROJECT/blob/4aa0cbc8dbdcc0ec49bf64d42037baa48fffed6d/Customer%20Overview%20Dashboard%20.png)
 
 ### **Page 2: Revenue Insights**
 - Revenue by category  
