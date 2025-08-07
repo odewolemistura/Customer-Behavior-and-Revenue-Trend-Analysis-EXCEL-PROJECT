@@ -62,7 +62,7 @@ Key business questions explored:
 - Revenue impact of discounts & promo codes  
 - Revenue by payment method
 
-  ![image alt]()
+  ![image alt](https://github.com/odewolemistura/Customer-Behavior-and-Revenue-Trend-Analysis-EXCEL-PROJECT/blob/5e90ee6c724de70d12e1d6a517fbc3cac412ab63/Revenue%20Insight%20Dashboard.png)
 ## Key Findings & Insights
 
 - 📈 **45–59-year-olds** contribute the most to revenue  
